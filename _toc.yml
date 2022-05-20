@@ -121,6 +121,7 @@ entries:
       - file: docs/products/kafka/concepts
         entries:
           - file: docs/products/kafka/concepts/acl
+          - file: docs/products/kafka/concepts/karapace-authorization
           - file: docs/products/kafka/concepts/log-compaction
           - file: docs/products/kafka/concepts/partition-segments
           - file: docs/products/kafka/concepts/horizontal-vertical-scaling

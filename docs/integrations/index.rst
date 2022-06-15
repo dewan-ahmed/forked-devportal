@@ -28,4 +28,4 @@ Available integrations
 
     * :doc:`/docs/products/opensearch/howto/opensearch-log-integration`
     * :doc:`Datadog <datadog/index>`
-    * `RSyslog integration <https://help.aiven.io/en/articles/2933115-remote-syslog-integration>`_
+    * :doc:`RSyslog <rsyslog/index>`

@@ -32,7 +32,7 @@ entries:
           - file: docs/platform/howto/create_authentication_token
           - file: docs/platform/howto/create_new_service_user
           - file: docs/platform/howto/enable-aiven-password
-          - file: docs/platform/howto/disable-user-2fa            
+          - file: docs/platform/howto/disable-user-2fa
       - file: docs/platform/howto/list-service
         title: Service management
         entries:
@@ -57,7 +57,7 @@ entries:
           - file: docs/platform/howto/monitoring-services
           - file: docs/platform/howto/integrations/prometheus-metrics
           - file: docs/platform/howto/integrations/datadog-increase-metrics-limit
-      
+
     - file: docs/platform/reference
       title: Reference
       entries:
@@ -73,6 +73,9 @@ entries:
       entries:
         - file: docs/integrations/datadog/datadog-metrics
         - file: docs/integrations/datadog/datadog-logs
+    - file: docs/integrations/rsyslog/index
+      title: RSyslog
+
 
 
   - file: docs/tools/index
@@ -120,9 +123,9 @@ entries:
             - file: docs/tools/terraform/reference/cookbook/kafka-connect-terraform-recipe
               title: Apache Kafka and OpenSearch
             - file: docs/tools/terraform/reference/cookbook/multicloud-postgresql-recipe
-              title: Multicloud PostgreSQL 
+              title: Multicloud PostgreSQL
             - file: docs/tools/terraform/reference/cookbook/kafka-flink-integration-recipe
-              title: Apache Kafka and Apache Flink  
+              title: Apache Kafka and Apache Flink
       - file: docs/tools/kubernetes
         title: Aiven Operator for Kubernetes
 
@@ -501,9 +504,9 @@ entries:
     entries:
       - file: docs/products/mysql/get-started
         title: Get started
-      - file: docs/products/mysql/concepts                   
-        title: Concepts                           
-        entries:                                  
+      - file: docs/products/mysql/concepts
+        title: Concepts
+        entries:
           - glob: docs/products/mysql/concepts/*
       - file: docs/products/mysql/howto
         title: HowTo

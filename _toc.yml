@@ -123,8 +123,8 @@ entries:
               title: Multicloud PostgreSQL 
             - file: docs/tools/terraform/reference/cookbook/kafka-flink-integration-recipe
               title: Apache Kafka and Apache Flink  
-            - file: docs/tools/terraform/reference/cookbook/grafana-recipe
-              title: Visualize metrics with Grafana
+            - file: docs/tools/terraform/reference/cookbook/grafana-postgresql-recipe
+              title: Visualize PostgreSQL metrics with Grafana
       - file: docs/tools/kubernetes
         title: Aiven Operator for Kubernetes
 
